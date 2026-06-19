@@ -1,0 +1,16 @@
+StudentID,Name,Gender,Age,Course,Maths,Science,English,Attendance
+S001,Aarav Sharma,M,19,Computing,78,85,72,92
+S002,Neha Limbu,F,20,Computing,88,91,84,95
+S003,Rohan Karki,M,18,Business,67,74,70,88
+S004,Sita Rai,F,21,Computing,92,89,95,98
+S005,Bikash Thapa,M,20,Engineering,81,77,79,90
+S006,Anita Gurung,F,19,Business,75,82,87,93
+S007,Suman Karki,M,22,Engineering,69,65,73,85
+S008,Pooja Shrestha,F,18,Computing,95,97,94,99
+S009,Ram Bahadur,M,21,Business,58,62,60,80
+S010,Kriti Adhikari,F,20,Engineering,84,88,86,96
+S011,Manish Tamang,M,19,Computing,73,79,76,89
+S012,Sabina Magar,F,22,Business,90,85,91,97
+S013,Prakash Oli,M,20,Engineering,77,72,80,87
+S014,Rita KC,F,19,Computing,86,93,88,94
+S015,Dipesh Bista,M,21,Business,64,68,66,82
