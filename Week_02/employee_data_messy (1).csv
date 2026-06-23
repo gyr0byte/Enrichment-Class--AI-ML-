@@ -1,0 +1,36 @@
+EmployeeID,Name,Age,Salary,Department,JoiningDate,Email,City
+101, John Doe ,25,50000,IT,2022-01-15,john.doe@gmail.com,Kathmandu
+102,Jane Smith,28,55000,HR,2021-11-10,jane.smith@gmail.com,Pokhara
+103,Mike Johnson,,62000,Finance,2020-05-20,mike.johnson@gmail.com,Lalitpur
+104,Sarah Wilson,Thirty,58000,IT,2022-03-12,sarah.wilson@gmail.com,Bhaktapur
+105,David Brown,35,,Marketing,2019-07-01,david.brown@gmail.com,Butwal
+106,Emily Davis,29,53000,HR,2021/08/15,emily.davis@gmail.com,Chitwan
+107,Chris Taylor,31,61000,Finance,,chris.taylor@gmail.com,Dharan
+108,Jessica Miller,27,49000,IT,2022-09-18,,Kathmandu
+109,Robert White,40,75000,Management,2018-12-05,robert.white@gmail.com,Pokhara
+110,Lisa Green,26,51000,HR,2023-02-10,lisa.green@gmail,Janakpur
+111, John Doe ,25,50000,IT,2022-01-15,john.doe@gmail.com,Kathmandu
+112,Alex Turner,22,45000,it,2023-06-20,alex.turner@gmail.com,Kathmandu
+113,Maria Lopez, ,56000,Finance,2021-04-25,maria.lopez@gmail.com,Lalitpur
+114,Kevin Hall,33,70000,MARKETING,2019-09-10,kevin.hall@gmail.com,Biratnagar
+115,Nancy Allen,29,52000,HR,2022-07-11,nancy.allen@gmail.com,Pokhara
+116,Peter Young,41,82000,Management,2017-03-14,peter.young@gmail.com,Dharan
+117,Olivia King,24,48000,IT,2023-01-05,olivia.king@gmail.com,Bhaktapur
+118,Daniel Scott,NaN,57000,Finance,2020-08-19,daniel.scott@gmail.com,Lalitpur
+119,Emma Walker,30,61000,HR,2021-12-30,emma.walker@gmail.com, Kathmandu
+120,James Adams,28,53000,,2022-05-16,james.adams@gmail.com,Butwal
+121,Sophia Baker,27,50000,IT,2023-03-11,sophia.baker@gmail.com,Pokhara
+122,Michael Clark,34,69000,Finance,2019-11-22,michael.clark@gmail.com,Dharan
+123,Isabella Lewis,31,64000,Marketing,2020-07-18,isabella.lewis@gmail.com,
+124,William Lee,45,90000,Management,2016-10-09,william.lee@gmail.com,Kathmandu
+125,Ava Harris,23,47000,IT,2023-04-14,ava.harris@gmail.com,Bhaktapur
+126,Ethan Martin,32,65000,Finance,2020-02-27,ethan.martin@gmail.com,Lalitpur
+127,Mia Thompson,29,54000,HR,2021-06-06,mia.thompson@gmail.com,Pokhara
+128,Noah Garcia,27,51000,IT,2022-08-30,noah.garcia@gmail.com,Dharan
+129,Charlotte Martinez,36,72000,Marketing,2018-05-12,charlotte.martinez@gmail.com,Biratnagar
+130,Liam Robinson,38,78000,Management,2017-09-21,liam.robinson@gmail.com,Kathmandu
+131,john doe,25,50000,IT,2022-01-15,john.doe@gmail.com,Kathmandu
+132,Grace Rodriguez,twenty-eight,59000,HR,2021-10-10,grace.rodriguez@gmail.com,Pokhara
+133,Benjamin Lewis,30,"60,000",Finance,2020-03-15,benjamin.lewis@gmail.com,Lalitpur
+134,Amelia Walker,26,52000, IT ,2022-12-01,amelia.walker@gmail.com,Bhaktapur
+135,Lucas Hall,29,54000,hr,2021-05-08,lucas.hall@gmail.com,Dharan
