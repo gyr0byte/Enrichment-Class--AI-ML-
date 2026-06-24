@@ -1,0 +1,121 @@
+OrderID,OrderDate,Region,Category,Product,Quantity,UnitPrice,Revenue
+1001,2025-01-05,East,Electronics,Laptop,6,700,4200
+1002,2025-01-05,West,Office Supplies,Pen,5,910,4550
+1003,2025-01-05,North,Office Supplies,Printer Paper,1,140,140
+1004,2025-01-05,South,Furniture,Cabinet,4,720,2880
+1005,2025-01-10,East,Furniture,Desk,5,160,800
+1006,2025-01-10,West,Furniture,Desk,3,310,930
+1007,2025-01-10,North,Office Supplies,Pen,8,120,960
+1008,2025-01-10,South,Furniture,Desk,5,1000,5000
+1009,2025-01-15,East,Electronics,Keyboard,7,320,2240
+1010,2025-01-15,West,Furniture,Chair,3,620,1860
+1011,2025-01-15,North,Electronics,Monitor,7,200,1400
+1012,2025-01-15,South,Office Supplies,Pen,6,830,4980
+1013,2025-01-20,East,Electronics,Monitor,6,630,3780
+1014,2025-01-20,West,Furniture,Chair,7,180,1260
+1015,2025-01-20,North,Electronics,Laptop,4,280,1120
+1016,2025-01-20,South,Office Supplies,Notebook,10,760,7600
+1017,2025-01-25,East,Electronics,Laptop,8,510,4080
+1018,2025-01-25,West,Furniture,Desk,3,360,1080
+1019,2025-01-25,North,Office Supplies,Pen,5,630,3150
+1020,2025-01-25,South,Office Supplies,Notebook,1,310,310
+1021,2025-02-05,East,Office Supplies,Pen,8,430,3440
+1022,2025-02-05,West,Office Supplies,Printer Paper,4,590,2360
+1023,2025-02-05,North,Office Supplies,Printer Paper,4,950,3800
+1024,2025-02-05,South,Furniture,Cabinet,10,400,4000
+1025,2025-02-10,East,Furniture,Cabinet,9,180,1620
+1026,2025-02-10,West,Electronics,Laptop,10,400,4000
+1027,2025-02-10,North,Furniture,Desk,1,460,460
+1028,2025-02-10,South,Furniture,Desk,1,370,370
+1029,2025-02-15,East,Furniture,Desk,5,550,2750
+1030,2025-02-15,West,Furniture,Desk,7,240,1680
+1031,2025-02-15,North,Office Supplies,Notebook,7,480,3360
+1032,2025-02-15,South,Office Supplies,Notebook,3,720,2160
+1033,2025-02-20,East,Furniture,Chair,7,460,3220
+1034,2025-02-20,West,Electronics,Monitor,6,510,3060
+1035,2025-02-20,North,Furniture,Desk,10,450,4500
+1036,2025-02-20,South,Furniture,Chair,8,880,7040
+1037,2025-02-25,East,Furniture,Desk,6,640,3840
+1038,2025-02-25,West,Electronics,Keyboard,10,970,9700
+1039,2025-02-25,North,Electronics,Monitor,7,760,5320
+1040,2025-02-25,South,Electronics,Keyboard,2,380,760
+1041,2025-03-05,East,Electronics,Keyboard,1,190,190
+1042,2025-03-05,West,Furniture,Chair,4,1000,4000
+1043,2025-03-05,North,Office Supplies,Pen,3,780,2340
+1044,2025-03-05,South,Office Supplies,Printer Paper,5,400,2000
+1045,2025-03-10,East,Furniture,Chair,8,580,4640
+1046,2025-03-10,West,Electronics,Keyboard,7,810,5670
+1047,2025-03-10,North,Furniture,Cabinet,10,450,4500
+1048,2025-03-10,South,Electronics,Laptop,3,820,2460
+1049,2025-03-15,East,Electronics,Keyboard,9,380,3420
+1050,2025-03-15,West,Furniture,Desk,4,650,2600
+1051,2025-03-15,North,Furniture,Cabinet,10,550,5500
+1052,2025-03-15,South,Electronics,Monitor,2,280,560
+1053,2025-03-20,East,Electronics,Laptop,8,320,2560
+1054,2025-03-20,West,Office Supplies,Notebook,7,840,5880
+1055,2025-03-20,North,Office Supplies,Printer Paper,6,430,2580
+1056,2025-03-20,South,Electronics,Laptop,7,1000,7000
+1057,2025-03-25,East,Office Supplies,Notebook,5,430,2150
+1058,2025-03-25,West,Electronics,Monitor,10,440,4400
+1059,2025-03-25,North,Electronics,Keyboard,5,370,1850
+1060,2025-03-25,South,Furniture,Cabinet,2,690,1380
+1061,2025-04-05,East,Office Supplies,Printer Paper,9,200,1800
+1062,2025-04-05,West,Furniture,Chair,6,530,3180
+1063,2025-04-05,North,Electronics,Monitor,5,120,600
+1064,2025-04-05,South,Furniture,Desk,2,670,1340
+1065,2025-04-10,East,Electronics,Laptop,4,1000,4000
+1066,2025-04-10,West,Furniture,Desk,10,170,1700
+1067,2025-04-10,North,Electronics,Monitor,1,850,850
+1068,2025-04-10,South,Electronics,Laptop,1,360,360
+1069,2025-04-15,East,Office Supplies,Printer Paper,10,750,7500
+1070,2025-04-15,West,Electronics,Laptop,8,270,2160
+1071,2025-04-15,North,Furniture,Cabinet,8,590,4720
+1072,2025-04-15,South,Electronics,Monitor,9,990,8910
+1073,2025-04-20,East,Electronics,Keyboard,9,860,7740
+1074,2025-04-20,West,Office Supplies,Notebook,7,900,6300
+1075,2025-04-20,North,Office Supplies,Notebook,8,850,6800
+1076,2025-04-20,South,Office Supplies,Notebook,3,440,1320
+1077,2025-04-25,East,Furniture,Chair,5,350,1750
+1078,2025-04-25,West,Electronics,Laptop,6,530,3180
+1079,2025-04-25,North,Office Supplies,Notebook,6,530,3180
+1080,2025-04-25,South,Furniture,Cabinet,3,520,1560
+1081,2025-05-05,East,Furniture,Chair,7,330,2310
+1082,2025-05-05,West,Furniture,Desk,8,770,6160
+1083,2025-05-05,North,Office Supplies,Printer Paper,7,340,2380
+1084,2025-05-05,South,Electronics,Keyboard,3,800,2400
+1085,2025-05-10,East,Office Supplies,Pen,5,150,750
+1086,2025-05-10,West,Furniture,Chair,6,170,1020
+1087,2025-05-10,North,Office Supplies,Pen,1,890,890
+1088,2025-05-10,South,Electronics,Keyboard,9,520,4680
+1089,2025-05-15,East,Furniture,Chair,3,660,1980
+1090,2025-05-15,West,Furniture,Chair,9,330,2970
+1091,2025-05-15,North,Office Supplies,Pen,7,700,4900
+1092,2025-05-15,South,Office Supplies,Notebook,5,980,4900
+1093,2025-05-20,East,Furniture,Chair,6,570,3420
+1094,2025-05-20,West,Furniture,Cabinet,8,340,2720
+1095,2025-05-20,North,Furniture,Desk,9,730,6570
+1096,2025-05-20,South,Electronics,Keyboard,7,690,4830
+1097,2025-05-25,East,Furniture,Cabinet,7,740,5180
+1098,2025-05-25,West,Furniture,Cabinet,3,400,1200
+1099,2025-05-25,North,Office Supplies,Notebook,8,330,2640
+1100,2025-05-25,South,Office Supplies,Pen,1,260,260
+1101,2025-06-05,East,Furniture,Cabinet,9,310,2790
+1102,2025-06-05,West,Furniture,Cabinet,10,730,7300
+1103,2025-06-05,North,Office Supplies,Pen,4,670,2680
+1104,2025-06-05,South,Furniture,Chair,7,250,1750
+1105,2025-06-10,East,Furniture,Desk,10,210,2100
+1106,2025-06-10,West,Electronics,Laptop,8,570,4560
+1107,2025-06-10,North,Electronics,Monitor,2,970,1940
+1108,2025-06-10,South,Furniture,Desk,10,310,3100
+1109,2025-06-15,East,Furniture,Cabinet,2,710,1420
+1110,2025-06-15,West,Office Supplies,Printer Paper,10,270,2700
+1111,2025-06-15,North,Furniture,Cabinet,2,590,1180
+1112,2025-06-15,South,Electronics,Keyboard,3,670,2010
+1113,2025-06-20,East,Office Supplies,Pen,3,220,660
+1114,2025-06-20,West,Electronics,Keyboard,6,370,2220
+1115,2025-06-20,North,Office Supplies,Notebook,3,760,2280
+1116,2025-06-20,South,Electronics,Monitor,7,990,6930
+1117,2025-06-25,East,Electronics,Monitor,6,330,1980
+1118,2025-06-25,West,Electronics,Laptop,5,530,2650
+1119,2025-06-25,North,Electronics,Monitor,2,590,1180
+1120,2025-06-25,South,Furniture,Desk,2,630,1260
