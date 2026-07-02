@@ -12,6 +12,7 @@ Week_01/
   2_Numpy.ipynb
   3_statistics_for_data_analysis.ipynb
   4_Pandas_intro.ipynb
+  students_pandas_day4.xlsx
 
 Week_02/
   1_data_cleaning.ipynb
@@ -23,6 +24,7 @@ Week_02/
 Week_03/
   1_ML_and_Regression.ipynb
   1_Linear_Regression.ipynb
+  2_Evaluation_of_regression_model.ipynb
 ```
 
 ## Course Roadmap
@@ -46,6 +48,7 @@ Week_03/
 
 - Introduction to machine learning and regression
 - Linear regression concepts and practice
+- Evaluation of regression models
 - Training on a regression dataset
 
 ## Datasets and Practice Files
