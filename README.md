@@ -20,11 +20,20 @@ Week_02/
   3_EDA.ipynb
   4_working_with_real_dataset.ipynb
   pokemon_practice.ipynb
+  advanced_pandas_sales_dataset (1).csv
+  district_data (1).csv
+  election_data.csv
+  employee_data_messy (1).csv
+  healthcare_eda_dataset (1).csv
+  Pokemon.csv
+  province_data.csv
+  Zomato-data- (1).csv
 
 Week_03/
   1_ML_and_Regression.ipynb
   1_Linear_Regression.ipynb
   2_Evaluation_of_regression_model.ipynb
+  3_Regularization.ipynb
 ```
 
 ## Course Roadmap
@@ -49,6 +58,7 @@ Week_03/
 - Introduction to machine learning and regression
 - Linear regression concepts and practice
 - Evaluation of regression models
+- Regularization concepts and practice
 - Training on a regression dataset
 
 ## Datasets and Practice Files
@@ -57,12 +67,22 @@ The repository includes several datasets used throughout the notebooks, such as:
 
 - `students_pandas_day4.csv` and `students_pandas_day4.xlsx`
 - `employee_data_messy (1).csv`
+- `advanced_pandas_sales_dataset (1).csv`
+- `district_data (1).csv`
 - `election_data.csv`
 - `province_data.csv`
 - `healthcare_eda_dataset (1).csv`
 - `Zomato-data- (1).csv`
 - `Pokemon.csv`
 - `regression_training_dataset.csv`
+
+Generated visuals from Week 2 practice are also included in the repository:
+
+- `bar_chart_top_parties.png`
+- `boxplot_age_province.png`
+- `histogram_candidate_age.png`
+- `line_plot_function.png`
+- `scatter_plot_age_votes.png`
 
 Some notebooks also generate visualization outputs such as bar charts, histograms, boxplots, line plots, and scatter plots.
 
