@@ -35,6 +35,12 @@ Week_03/
   2_Evaluation_of_regression_model.ipynb
   3_Regularization.ipynb
   4_complete_regression_workflow.ipynb
+
+Week_04/
+  2_logistic_regression.ipynb
+  loan_approval_streamlit_app.py
+  loan_approval_model.pkl
+  logistic_regression_loan_approval_dataset.csv
 ```
 
 ## Course Roadmap
@@ -62,6 +68,13 @@ Week_03/
 - Regularization concepts and practice
 - Training on a regression dataset
 
+### Week 4: Classification & Deployment
+
+- Logistic regression for binary classification
+- Model training on real loan approval datasets
+- Model serialization and deployment
+- Streamlit web application for model inference
+
 ## Datasets and Practice Files
 
 The repository includes several datasets used throughout the notebooks, such as:
@@ -76,6 +89,7 @@ The repository includes several datasets used throughout the notebooks, such as:
 - `Zomato-data- (1).csv`
 - `Pokemon.csv`
 - `regression_training_dataset.csv`
+- `logistic_regression_loan_approval_dataset.csv`
 
 Generated visuals from Week 2 practice are also included in the repository:
 
@@ -91,6 +105,13 @@ Generated visuals from Week 3 practice are also included in the repository:
 - `correlation_matrix_heatmap.png`
 - `eda_features_vs_target_best_fit.png`
 - `model_overfitting_underfitting_comparison.png`
+
+## Deployment & Models
+
+Week 4 includes a trained logistic regression model and a Streamlit web application for interactive predictions:
+
+- `loan_approval_model.pkl` - Serialized trained logistic regression model
+- `loan_approval_streamlit_app.py` - Streamlit application for model inference
 
 Some notebooks also generate visualization outputs such as bar charts, histograms, boxplots, line plots, and scatter plots.
 
