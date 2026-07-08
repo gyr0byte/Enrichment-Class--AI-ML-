@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Notebook artifacts
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/
+
+# Common local files
+.DS_Store
+Thumbs.db
+
+# Test and lint caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Generated model artifacts
+Week_04/loan_approval_model.pkl
