@@ -34,6 +34,7 @@ Week_03/
   1_Linear_Regression.ipynb
   2_Evaluation_of_regression_model.ipynb
   3_Regularization.ipynb
+  4_complete_regression_workflow.ipynb
 ```
 
 ## Course Roadmap
@@ -83,6 +84,13 @@ Generated visuals from Week 2 practice are also included in the repository:
 - `histogram_candidate_age.png`
 - `line_plot_function.png`
 - `scatter_plot_age_votes.png`
+
+Generated visuals from Week 3 practice are also included in the repository:
+
+- `best_model_actual_vs_predicted_linear_regression.png`
+- `correlation_matrix_heatmap.png`
+- `eda_features_vs_target_best_fit.png`
+- `model_overfitting_underfitting_comparison.png`
 
 Some notebooks also generate visualization outputs such as bar charts, histograms, boxplots, line plots, and scatter plots.
 
