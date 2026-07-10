@@ -38,9 +38,11 @@ Week_03/
 
 Week_04/
   2_logistic_regression.ipynb
+  3_support_vector_machine.ipynb
   loan_approval_streamlit_app.py
   loan_approval_model.pkl
   logistic_regression_loan_approval_dataset.csv
+  breast_cancer_wisconsin.csv
 ```
 
 ## Course Roadmap
@@ -71,7 +73,8 @@ Week_04/
 ### Week 4: Classification & Deployment
 
 - Logistic regression for binary classification
-- Model training on real loan approval datasets
+- Support Vector Machines (SVM) for classification
+- Model training on real loan approval and medical datasets
 - Model serialization and deployment
 - Streamlit web application for model inference
 
@@ -90,6 +93,7 @@ The repository includes several datasets used throughout the notebooks, such as:
 - `Pokemon.csv`
 - `regression_training_dataset.csv`
 - `logistic_regression_loan_approval_dataset.csv`
+- `breast_cancer_wisconsin.csv`
 
 Generated visuals from Week 2 practice are also included in the repository:
 
