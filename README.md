@@ -43,6 +43,9 @@ Week_04/
   loan_approval_model.pkl
   logistic_regression_loan_approval_dataset.csv
   breast_cancer_wisconsin.csv
+  4_Decision_tress_k_means.ipynb
+  decision_tree_model_schematic.png
+  online_shoppers_intention.csv
 ```
 
 ## Course Roadmap
@@ -77,6 +80,7 @@ Week_04/
 - Model training on real loan approval and medical datasets
 - Model serialization and deployment
 - Streamlit web application for model inference
+- Decision Trees and K-Means clustering for classification and unsupervised learning
 
 ## Datasets and Practice Files
 
@@ -94,6 +98,7 @@ The repository includes several datasets used throughout the notebooks, such as:
 - `regression_training_dataset.csv`
 - `logistic_regression_loan_approval_dataset.csv`
 - `breast_cancer_wisconsin.csv`
+- `online_shoppers_intention.csv`
 
 Generated visuals from Week 2 practice are also included in the repository:
 
@@ -109,6 +114,10 @@ Generated visuals from Week 3 practice are also included in the repository:
 - `correlation_matrix_heatmap.png`
 - `eda_features_vs_target_best_fit.png`
 - `model_overfitting_underfitting_comparison.png`
+
+Generated visuals from Week 4 practice are also included in the repository:
+
+- `decision_tree_model_schematic.png`
 
 ## Deployment & Models
 
