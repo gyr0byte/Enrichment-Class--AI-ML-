@@ -46,6 +46,10 @@ Week_04/
   4_Decision_tress_k_means.ipynb
   decision_tree_model_schematic.png
   online_shoppers_intention.csv
+
+Week_05/
+  1_XOR.ipynb
+  1_perceptron_neural_networks.ipynb
 ```
 
 ## Course Roadmap
@@ -81,6 +85,12 @@ Week_04/
 - Model serialization and deployment
 - Streamlit web application for model inference
 - Decision Trees and K-Means clustering for classification and unsupervised learning
+
+### Week 5: Neural Networks
+
+- Perceptron fundamentals
+- Neural network concepts
+- XOR problem and non-linear separability
 
 ## Datasets and Practice Files
 
