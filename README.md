@@ -50,6 +50,13 @@ Week_04/
 Week_05/
   1_XOR.ipynb
   1_perceptron_neural_networks.ipynb
+
+Week_06/
+  2_convolutional_fundamentals.ipynb
+  3_CNN_architecture.ipynb
+
+Week_08/
+  (empty for upcoming content)
 ```
 
 ## Course Roadmap
@@ -91,6 +98,15 @@ Week_05/
 - Perceptron fundamentals
 - Neural network concepts
 - XOR problem and non-linear separability
+
+### Week 6: Convolutional Neural Networks
+
+- Convolutional fundamentals
+- CNN architecture basics
+
+### Week 8: Upcoming Content
+
+- Placeholder week for future lessons and projects
 
 ## Datasets and Practice Files
 
