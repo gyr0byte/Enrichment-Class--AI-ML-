@@ -55,6 +55,9 @@ Week_06/
   2_convolutional_fundamentals.ipynb
   3_CNN_architecture.ipynb
 
+Week_07/
+  1_GenAI.ipynb
+
 Week_08/
   (empty for upcoming content)
 ```
@@ -103,6 +106,11 @@ Week_08/
 
 - Convolutional fundamentals
 - CNN architecture basics
+
+### Week 7: Generative AI
+
+- Introduction to Generative AI concepts
+- Hands-on notebook for GenAI exploration
 
 ### Week 8: Upcoming Content
 
