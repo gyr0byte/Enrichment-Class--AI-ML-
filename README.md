@@ -57,6 +57,7 @@ Week_06/
 
 Week_07/
   1_GenAI.ipynb
+  2_youtube_video_summarizer.ipynb
 
 Week_08/
   (empty for upcoming content)
@@ -111,6 +112,7 @@ Week_08/
 
 - Introduction to Generative AI concepts
 - Hands-on notebook for GenAI exploration
+- Practical exercises: YouTube video summarization and content extraction
 
 ### Week 8: Upcoming Content
 
